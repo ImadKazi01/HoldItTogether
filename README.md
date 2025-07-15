@@ -50,7 +50,7 @@ You must keep the orb under control while chaos increases every few seconds. The
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/your-username/HoldItTogether.git
+   git clone https://github.com/imadkazi01/HoldItTogether.git
    ```
 2. **Open in Xcode**
 
@@ -75,7 +75,7 @@ You must keep the orb under control while chaos increases every few seconds. The
 
 ## 📸 Screenshots
 
-> *(Add screenshots of gameplay here when ready)*
+> *(Screenshots coming soon)*
 
 ---
 
